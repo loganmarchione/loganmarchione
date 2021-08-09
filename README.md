@@ -11,7 +11,7 @@
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu linux" width="40" height="40"/>
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png" alt="bash" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
