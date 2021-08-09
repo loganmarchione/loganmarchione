@@ -14,10 +14,10 @@
   <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png" alt="bash" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/docker/docker.github.io/master/images/engine.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://www.ansible.com/" target="_blank">
-  <img src="https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </a>
 <a href="https://www.home-assistant.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo-responsive.svg" alt="home assistant" width="40" height="40"/>
