@@ -2,8 +2,6 @@
 
 My name is Logan Marchione and I'm currenty a Site Reliability Engineer at 3M.
 
-<img src="https://raw.githubusercontent.com/loganmarchione/loganmarchione.com/master/static/assets/misc/profile_pic_head_triangula_300.png"/>
-
 ## Languages and tools
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/> <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"/> <img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"/>
