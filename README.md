@@ -1,6 +1,6 @@
 # Hello World 👋
 
-My name is Logan Marchione and I'm currently a Site Reliability Engineer at 3M.
+My name is Logan Marchione.
 
 ## Languages and tools
 
