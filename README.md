@@ -23,6 +23,3 @@ My name is Logan Marchione and I'm a Sr. Software Engineer on the Platform team 
 [![Gitea](https://img.shields.io/badge/-Gitea-%23c9d1d9?logo=gitea)](https://gitea.io)
 [![Drone](https://img.shields.io/badge/-Drone-%23c9d1d9?logo=drone&logoColor=black)](https://www.drone.io/)
 [![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=docker)](https://www.docker.com/)
-
-## Stats
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganmarchione&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
