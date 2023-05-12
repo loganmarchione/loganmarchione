@@ -29,3 +29,4 @@ I hope you find something of value here! Enjoy!
 [![Gitea](https://img.shields.io/badge/-Gitea-%23c9d1d9?logo=gitea)](https://gitea.io)
 [![Drone](https://img.shields.io/badge/-Drone-%23c9d1d9?logo=drone&logoColor=black)](https://www.drone.io/)
 [![Docker](https://img.shields.io/badge/-Docker-%23c9d1d9?logo=docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23c9d1d9?logo=kubernetes)](https://kubernetes.io/)
